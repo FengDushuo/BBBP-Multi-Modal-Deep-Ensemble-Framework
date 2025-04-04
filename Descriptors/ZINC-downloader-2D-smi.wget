@@ -1,0 +1,16 @@
+mkdir -pv FE && wget http://files.docking.org/2D/FE/FEAA.smi -O FE/FEAA.smi
+mkdir -pv FE && wget http://files.docking.org/2D/FE/FEAB.smi -O FE/FEAB.smi
+mkdir -pv FE && wget http://files.docking.org/2D/FE/FEAC.smi -O FE/FEAC.smi
+mkdir -pv FE && wget http://files.docking.org/2D/FE/FEAD.smi -O FE/FEAD.smi
+mkdir -pv FE && wget http://files.docking.org/2D/FE/FEBA.smi -O FE/FEBA.smi
+mkdir -pv FE && wget http://files.docking.org/2D/FE/FEBB.smi -O FE/FEBB.smi
+mkdir -pv FE && wget http://files.docking.org/2D/FE/FEBC.smi -O FE/FEBC.smi
+mkdir -pv FE && wget http://files.docking.org/2D/FE/FEBD.smi -O FE/FEBD.smi
+mkdir -pv FE && wget http://files.docking.org/2D/FE/FECA.smi -O FE/FECA.smi
+mkdir -pv FE && wget http://files.docking.org/2D/FE/FECB.smi -O FE/FECB.smi
+mkdir -pv FE && wget http://files.docking.org/2D/FE/FECC.smi -O FE/FECC.smi
+mkdir -pv FE && wget http://files.docking.org/2D/FE/FECD.smi -O FE/FECD.smi
+mkdir -pv FE && wget http://files.docking.org/2D/FE/FEEA.smi -O FE/FEEA.smi
+mkdir -pv FE && wget http://files.docking.org/2D/FE/FEEB.smi -O FE/FEEB.smi
+mkdir -pv FE && wget http://files.docking.org/2D/FE/FEEC.smi -O FE/FEEC.smi
+mkdir -pv FE && wget http://files.docking.org/2D/FE/FEED.smi -O FE/FEED.smi
